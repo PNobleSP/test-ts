@@ -1,5 +1,4 @@
 import "@jest/globals";
-import { todo1, todo2, todo3, todo4, todo5, todo6 } from "./test";
 
 // IMPORTANT :
 // Pour chaque test, crée ta propre donnée mockée (MockSubsidies, MockSubsidyStates, etc.) adaptée au scénario.
